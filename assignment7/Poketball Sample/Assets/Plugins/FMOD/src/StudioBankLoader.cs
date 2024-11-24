@@ -9,6 +9,7 @@ namespace FMODUnity
         public LoaderGameEvent LoadEvent;
         public LoaderGameEvent UnloadEvent;
         [BankRef]
+        public List<string> Banks;
         public string CollisionTag;
         public bool PreloadSamples;
         private bool isQuitting;
