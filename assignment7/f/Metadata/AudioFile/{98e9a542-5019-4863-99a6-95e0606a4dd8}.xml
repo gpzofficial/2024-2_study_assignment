@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{98e9a542-5019-4863-99a6-95e0606a4dd8}">
+		<property name="assetPath">
+			<value>ball2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ac7fdd14-7fa9-4ad1-bd4d-ba2dedf5556a}</destination>
+		</relationship>
+	</object>
+</objects>

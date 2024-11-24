@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ad28eaa0-f2bc-4460-882e-b661339bbc5c}">
+		<property name="assetPath">
+			<value>sample_atmos_la_1.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>86.063999999999993</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ac7fdd14-7fa9-4ad1-bd4d-ba2dedf5556a}</destination>
+		</relationship>
+	</object>
+</objects>
